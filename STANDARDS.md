@@ -23,4 +23,5 @@ Every repository in GPT-Hub-Community meets these rules. A pull request that bre
 - **Changelog:** every version bump adds `## <version> (<date>)` to `CHANGELOG.md`, newest first, written for users.
 - **Versions match:** the version badge, `pyproject.toml` and the changelog say the same version.
 - **No dead links:** relative links in the README must exist (checked).
+- **Listed and linked:** every repo has a linked row in the org profile (`profile/README.md`), added in the pull request that creates or moves it.
 - **Monthly sweep:** maintainers check each repo's README, screenshots, topics and changelog against what the code does now.

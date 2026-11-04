@@ -9,8 +9,8 @@ Where Niko's GPT Hub shares what makes game bots work: the ad library every bot 
 
 | Repository | What it is |
 | --- | --- |
-| **Not The Largest Ad Repository** | Full-screen ad handling: find the close or skip button, never tap the ad. Android and iPhone. |
-| **wordsearch-bot** | Free Word Search Explorer bot with a terminal UI, Android and iPhone. |
+| [**Not The Largest Ad Repository**](https://github.com/GPT-Hub-Community/not-the-largest-ad-repository) | Full-screen ad handling: find the close or skip button, never tap the ad. Android and iPhone. |
+| [**wordsearch-bot**](https://github.com/NikoMyBelovedd/wordsearch-bot) | Free Word Search Explorer bot with a terminal UI, Android and iPhone. |
 
 **Joining:** the repositories are for GPT Hub members. Ask in **#ad-repo** on the GPT Hub Discord.
 **Contributing:** fork, open a pull request, follow the repo's CONTRIBUTING.md. Every repo meets [STANDARDS.md](https://github.com/GPT-Hub-Community/.github/blob/main/STANDARDS.md).
