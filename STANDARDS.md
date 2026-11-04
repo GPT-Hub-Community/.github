@@ -1,6 +1,6 @@
 # Standards: every repo looks good and stays current
 
-Every repository in GPT-Hub-Community meets these rules. A pull request that breaks one isn't merged. Each repo checks them with `tools/readme_check.py`, run from its `tools/check.sh`.
+What every repository in GPT-Hub-Community aims for. They're goals, not gates: a pull request that misses one can still be merged, and whoever has time fixes it later. `tools/readme_check.py` (run from each repo's `tools/check.sh`) points out the ones it can check.
 
 ## Looks
 
