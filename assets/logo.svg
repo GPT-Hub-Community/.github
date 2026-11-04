@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="GPT Hub Community logo">
+  <title>GPT Hub Community logo</title>
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="#151517" stroke="#2e2e34" stroke-width="2"/>
+  <path fill="none" stroke="#1667d9" stroke-width="8" stroke-linecap="round" d="M56 128H200M128 56V200"/>
+  <g fill="#1667d9">
+    <circle cx="56" cy="128" r="12"/>
+    <circle cx="200" cy="128" r="12"/>
+    <circle cx="128" cy="56" r="12"/>
+    <circle cx="128" cy="200" r="12"/>
+    <circle cx="128" cy="128" r="26"/>
+  </g>
+</svg>
